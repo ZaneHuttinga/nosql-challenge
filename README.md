@@ -19,3 +19,7 @@ This Jupyter Notebook file is used to make a series of MongoDB queries to answer
 4. How many establishments in each Local Authority area have a hygiene score of 0?
 
 Question 3 involves use of the $regex command, and Question 4 involves setting up an aggregate pipeline.
+
+## Resources
+
+This folder contains the file 'establishments.json', from which we import the collection 'establishments' (using the Command Prompt, the code for which can be found in a markup cell at the top of 'NoSQL_setup.ipynb'.)
