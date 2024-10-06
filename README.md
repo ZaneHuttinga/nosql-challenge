@@ -9,7 +9,7 @@ This Jupyter Notebook file contains several cells of MongoDB and PyMongo code us
 ### Part 2
 The Jupyter Notebook then inserts a new document to 'establishments' for the restaurant Penang Flavours and updates it to fill in a missing piece of data.
 
-## NoSQL_analysis
+## NoSQL_analysis.ipynb
 
 ### Part 3
 This Jupyter Notebook file is used to make a series of MongoDB queries to answer four questions:
